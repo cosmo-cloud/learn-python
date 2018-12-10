@@ -6,6 +6,36 @@ According to Guido Van Rossum
 What most people feel about it,
 > Beautiful, like an executable pseudocode, easy to learn, varied applications ranging from Web Development, Data Science & Machine Learning.
 
+# Repo Structure
+```
+.
+├── Basics
+│   ├── ControlFlow
+│   └── Function
+├── Built-ins
+│   ├── enumerate
+│   ├── filter
+│   ├── lambda
+│   ├── map
+│   └── zip
+├── Classes
+│   └── theory.md
+├── DataStructures
+│   ├── dictionary
+│   ├── list
+│   └── tuple
+├── FileIO
+├── Modules
+│   ├── collections
+│   │   ├── collection.ipynb
+│   │   ├── defaultdict
+│   │   └── namedtuple
+│   ├── itertools
+│   ├── random
+│   └── sys
+├── README.md
+└── checklist.md
+```
 #### 1. Primitive Datatypes and Operators:
 <details>
 <summary>Know More</summary>
